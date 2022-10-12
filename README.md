@@ -1,2 +1,2 @@
 # GitDemo
-This is a demo app for the GIt course.
+This is a demo app for the Git course.
