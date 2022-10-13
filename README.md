@@ -5,6 +5,7 @@ This is a sample repository/ sample app for the Git course.
 # Guis
 * THis change made by VSCODE
 * THis change made by Visual Studio 2022 Community Editions
+* THis change made by Github Desktop
 
 ## How to work with Git
 1. git checkout main
