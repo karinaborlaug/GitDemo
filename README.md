@@ -1,6 +1,10 @@
 # Git Demo Repo
 This is a sample repository/ sample app for the Git course.
 
+
+# Guis
+* THis change made by VSCODE
+
 ## How to work with Git
 1. git checkout main
 2. git pull
